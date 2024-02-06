@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<!-- 
+
+⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⡶⠿⠿⠿⠿⠿⠿⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣦⣄⠀⠀⠀⠀⠀
+⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣀⣀⠀⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⢀⣾⠋⢀⣴⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠿⠂⠀⠀⠙⣷⡄⠀⠀
+⠀⣾⠇⣠⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠆⠀⠀⠀⠀⠀⠸⣷⡀⠀
+⢸⡟⠘⠛⠁⣰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⢻⣧⠀
+⢸⡇⠀⠀⠀⠸⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡀
+⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇
+⢸⣧⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⣤⠀⠀⣾⡆⠀⠀⠀⠀⠀⠀⢠⣿⠃         
+⠀⣿⡄⠀⠀⠀⠀⠀⠀⢾⡇⠀⠀⢀⣿⣦⣤⡿⠁⠀⠀⠀⠀⠀⠀⣼⡟⠀
+⠀⠸⣧⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠛⠁⠈⠉⠀⠀⠀⠀⠀⠀⢀⣼⡟⠁⠀
+⠀⠀⠙⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢀⣴⣿⠋⠀⠀⠀
+⠀⠀⠀⠈⠙⢿⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣾⣿⠿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠻⠿⠿⠿⠿⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀
+please dn take my code or copy it!! i spend a lot of time on neocities so i will eventually see it LOLOL....if u really need help with html dont feel afraid to ask me and ill try to help if i can! ^_^
+
+
+-->
+<html lang="en">
+<head>
+  <title>I'M FANTASIZING ALL THE TIME</title>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" type="image/jpg" href=
+  "https://cdn.discordapp.com/attachments/298980640156680194/942662395518656532/unknown.png">
+  <link href="css/newshid/newdex3.css" rel="stylesheet" type=
+  "text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com"
+  crossorigin="">
+  <link href=
+  "https://fonts.googleapis.com/css2?family=Fredoka+One&family=Hachi+Maru+Pop&family=Itim&family=Kosugi+Maru&family=Meie+Script&family=Mochiy+Pop+P+One&family=Noto+Sans+JP:wght@900&family=Sail&family=Zen+Maru+Gothic:wght@900&display=swap"
+  rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com"
+  crossorigin="">
+  <link href=
+  "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Tangerine:wght@700&display=swap"
+  rel="stylesheet">
+  <meta name="description" content="the site of nyaa">
+</head>
+<body>
+  <div class="container">
+    <div class="title">
+      NYAA SPACE
+    </div>
+    <div class="header">
+      <div class="blender"></div>
+      <div class="blenderbg"></div>
+      <div class="blenderp"></div>
+      <div class="gif"></div>
+    </div>
+    <div class="directory">
+      <div id="tb-chii"></div>
+      <div id="top-border"></div>
+      <div id="side-border"></div>
+      <div id="bot-border"></div>
+      <div id="dir-img"></div>
+      <div class="directory-pad">
+        <span class="dirthr">directory</span><br>
+        <hr>
+        <a href="/index.html"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">homepage</a><br>
+
+        <a href="/about.html"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        about me</a><br>
+        <a href="/shrines.html"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        shrine page</a><br>
+        <a href="/artroom.html"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        artroom</a><br>
+        <a href="/ocs.html"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        oc directory</a> <img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1088221896211968011/new.gif">
+        <br>
+        <img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        <a href="/graphics.html">stickerbook</a><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1151955023383765033/hot.gif"><br>
+
+        <img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        <a href="/2024journal.html">journal</a><br>
+        <img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1087389621098385459/mb1.png">
+        <a href="/microblog.html">microblog</a> <img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1088221896211968011/new.gif">
+        <br>
+        <span class="dirthr">outgoing</span><br>
+        <hr>
+        <a href="https://neocities.org/site/nyaa"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1021535168491683950/tumblr_dd25d010e219215bf8d483bc8ded6442_f57deb51_75.gif">my
+        neocities profile</a><br>
+        <a href="https://yamos.neocities.org/"><img src=
+        "https://cdn.discordapp.com/attachments/298980640156680194/1021535168491683950/tumblr_dd25d010e219215bf8d483bc8ded6442_f57deb51_75.gif">
+        YAMOS</a><br>
+        <hr>
+        <div style="text-align: center;margin-top: -2px;">
+          <a href=
+          "https://allyratworld.com/cafe/rose#join"><img src=
+          "https://cdn.discordapp.com/attachments/298980640156680194/1153324776509689856/caferose.png"></a>
+        </div>
+      </div>
+    </div>
+    <div class="intro">
+      <div class="intro-center">
+        <div id="lace"></div>
+        <div class="intro-style">
+          <br>
+          <img src=
+          "https://cdn.discordapp.com/attachments/298980640156680194/1009850549979586590/unknown.png"
+          style="float: left;"> <span class="is-l">THE FUTURE IS
+          FOR YOU <i>!</i> ★<br></span> <img src=
+          "https://cdn.discordapp.com/attachments/298980640156680194/1025496427121614929/unknown.png">
+           welcome 2 NYAA, my name is lizzy and this website serves
+          as my personal art project. . . i put pretty much
+          anything i am interested up on this site, so it's hard
+          for me to describe exactly what it is!<br>
+          <br>
+          i am a full-time college student studying illustration,
+          and i do website design in my spare time! i am mostly
+          self-taught and have only recently taken up a few webdev
+          classes to help solidify my workflow. . . despite this i
+          am relatively a free-form 'designer' doing whatever i can
+          think of!<br>
+          <br>
+          please note <span class="is">♥︎</span> nyaa updates
+          irregularly. some pages are unfinished, broken, or lack
+          updates- please mind the mess! if u believed u've
+          encountered an issue on the site feel free to send me a
+          message! other than than i hope u enjoy ur travels
+          through my little web-home. ^^
+          <hr id="hr3">
+          <div class="intro-update">
+            <span class="is-2">update 9/29<i>!</i> ★</span> - front
+            page still lags a lot... even with reduced
+            drop-shadows... maybe its the graphics lol? *rips hair
+            out*
+          </div>
+          <div class="is-3">
+            にやー version ５．３ running with ♥︎
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="log">
+      <div id="top-lborder"></div>
+      <div id="side-lborder"></div>
+      <div id="bot-lborder"></div>
+      <div class="log-text">
+        UPDATE NOTES !
+      </div>
+      <div class="log-scroll">
+        2024年1月17日 happy new year! just updating format somehow i
+        screwed up my own date system thx to whoever pointed it
+        out........all the other entries are correct except two so
+        idk where i goofed up
+        <hr>
+        2023年9月29日 updated carmens shrine! microblog added as
+        well.. ummm i also switched a lot of index images from
+        discord to my neocities, hopefully itll reduce lag?
+        <hr>
+        2023年9月18日 lots to do... considering making a microblog on
+        top of my journal.. i just dont want to feel pressured to
+        write such longform entries!
+        <hr>
+        2023年8月30日 added my oc page and working on filling out
+        their pages. ive also made the decision to remove my
+        "favorite sites" marquee. after taking many breaks from
+        neocities and coming back, ive noticed many of my mutuals
+        have either deactivated or stopped updating entirely. its
+        very sad for me since i adored many of their works!! T_T
+        but.. maybe one day the marquee will return. when i can be
+        bothered to collect more buttons.
+        <hr id="lghr">
+        2023年8月11日 woah... we've had a lot of updates since
+        feburary... i just forgot to write them! LOL enjoy
+        <hr id="lghr">
+        2023年2月23日 first update in the year.. in... late febuary
+        [sad face] but hopefully back on track! hi everypony! who
+        was gonna tell me i had duplicate stamps?
+        <hr id="lghr">
+        2022年11月15日 REDID THE WHOLLE PAGE UGHHH I HATE EVERUTJIGNG
+        jk i think its cute i wanted a cozy little layout for
+        winter. ALSO IM ON THE FRONT PAGE OF NC??? hi evrroyne
+        <hr id="lghr">
+        2022年11月7日 omg we are back bitches... sorry, i update the
+        sie quite frequently but just feel lazy to put an entry
+        LOLLL
+        <hr id="lghr">
+        2022年10月4日 halloween update is live... or should i say
+        UNDEAD?!!! is it too soon?! >w<
+        <hr id="lghr">
+        2022年10月1日 front page change again~~ just a bit more
+        improvement!
+        <hr id="lghr">
+        2022年9月18日 eek its been a long time hasnt it?! summer flew
+        by! redid the front page, slowly working on updating most
+        other pages too!!
+        <hr id="lghr">
+        2022年5月13日 first year of college over... time to spend all
+        my time in html world.. well.. idk how i feel about this
+        new layout, but it was hard looking at the old one when it
+        got copied and stuff. if thats overdramatic then so be it-
+        it just kind of felt UGLY!
+        <hr id="lghr">
+        2022年5月2日 wooh...not much progress. im out of ideas. mostly
+        working on the other site tbh- maybe ill put a link for it
+        here
+        <hr id="lghr">
+        2022年4月22日 added garden u can find it by clicking
+        'stickers'. i should probably streamline the names of all
+        the links, but idk
+        <hr id="lghr">
+        2022年4月20日 added computer check it out meow
+        <hr id="lghr">
+      </div>
+    </div>
+    <div class="site-holder">
+      <div id="top-sborder"></div>
+      <div id="side-sborder"></div>
+      <div id="bot-sborder"></div>
+      <div class="favs"><img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1025520131402641518/unknown.png"
+      style="width: 200px;"> <img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1025876418632106225/unknown.png"
+      style="width: 200px;"> <img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1025898326324936714/unknown.png"
+      style="width: 200px;"></div>
+      <div class="button"></div>
+    </div>
+    <div class="hidden">
+      <div class="hid-box">
+        NYAA BUTTON ♡ ADD ME!+<br>
+        <img src="https://nyaa.neocities.org/nyaabanner.gif"> 
+        <textarea id="buttte"></textarea>
+        <div class="hd1">
+          DONT HOTLINK!! AND DONT BE A WEIRDO!!!!!★ ★ ★
+        </div>
+        <div class="dad-space">
+          <div class="wb1">
+            WEBMASTER CHECK-IN!!
+          </div><br>
+          <div class="wb3">
+            <div class="lace2"></div>
+            <div class="wb3t"><span style="opacity: .6;">⋆༶ ❝
+            TO-DO:</span>
+            <hr id="hr4">
+            <span style="opacity: .6;">- <u>fix /sitemap</u>.<br>
+            - <u>clean out old urls</u><br>
+            - <u>more shrines</u><br>
+            - <u>update formating on /ocs</u><br>
+            - <u>update formating on /artroom</u><br></span>
+            <span style="opacity: .6;">❜❜</span> <img src=
+            "https://cdn.discordapp.com/attachments/298980640156680194/1087803444498284594/202203030930111289.png"
+            id="web-chii"></div>
+            <div class="lace2" style="top: 130px;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="comment-box">
+      <div class="comment-intro">
+        ✦ comment box ♡⸝⸝
+      </div><iframe id="com-style" src=
+      "https://www3.cbox.ws/box/?boxid=3512867&boxtag=unWlfr"
+      width="380px" height="101%;" allowtransparency="yes" allow=
+      "autoplay" frameborder="0" marginheight="0" marginwidth="0"
+      scrolling="auto" name="com-style"></iframe>
+    </div>
+    <div class="feature"><a href="/ocs.html">
+    <div class="ft-img">
+      <div class="ft-tx">
+        ^_^ oops... if ur seeing this i forgot to put something
+        here... or it will be here soon!
+      </div>
+    </div></a>
+    <div id="f1">
+      featured page!
+    </div><img src=""></div>
+    <div class="faq">
+      <div class="chiifaq"></div>
+      <div class="faq-center">
+        <div class="faq-style">
+          NOTICE: i do not consent to my code being copied or
+          stolen. feel free to be inspired by my site but do not
+          heavily reference my code for your own site! find similar
+          graphics i use on my <a href="/graphics">sticker
+          page</a>♪
+        </div>
+      </div>
+    </div>
+    <div class="ad-space2">
+      The Webmaster is....
+      <p style="color: hotpink;">BLEHHH NO TRIPS
+      ANYMORE!!!!<br></p>.........<br>
+    </div>
+    <div class="ad-space3">
+      <div id="top-aborder"></div>
+      <div id="side-aborder"></div>
+      <div id="bot-aborder"></div><img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1087582135000498216/examu_banner_s.png"
+      style="width: 200px;"> <img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1087772482049683576/side_banner_sweets.png"
+      style="width: 200px;"> <img src=
+      "https://cdn.discordapp.com/attachments/298980640156680194/1087583547574984704/top_item_mm_bath.png"
+      style="width: 200px;"> <a href=
+      "yamos.neocities.org"><img src="https://cdn.discordapp.com/attachments/298980640156680194/1087588863020638208/image.png"
+      style="width: 200px;"></a>
+    </div>
+    <div class="footer">
+      <span class="ft">nyaa © 2019 - <i>FOEVVVAAA!!! ★</i></span>
+    </div>
+  </div>
+</body>
+</html>
